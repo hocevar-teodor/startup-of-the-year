@@ -50,3 +50,7 @@ hr {
     padding-top: 5%;
     cursor: grab;
 }
+.black-wolf:hover {
+    transition: all .8s ease-in-out;
+    transform: scale(0.8);
+}
